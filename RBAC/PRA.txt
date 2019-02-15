@@ -1,0 +1,11 @@
+Student view Gradebook
+Student register Course
+Professor modify Gradebook
+Professor view CourseSyllabus
+Lecturer view CourseSyllabus
+Clown throw Pies
+Student view Transcripts
+Undergrad register UndergradCourse
+Grad register GradCourse
+Clownking throw SuperPies
+DeptChair view CourseCatalog
